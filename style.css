@@ -1,0 +1,17 @@
+body{
+  background-color:black;
+  color:white;
+  font-family: "Source Sans Pro";
+}
+header{
+  background-color:darkcyan;
+  color:black;
+}
+.section1{
+  background-color:lightblue;
+ color:black; 
+}
+h2{
+  background-color:beige;
+  color:black;
+}
